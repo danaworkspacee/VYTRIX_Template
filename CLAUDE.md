@@ -1,0 +1,1 @@
+/Users/mm/Project/VYTRIX/AGENTS.md
